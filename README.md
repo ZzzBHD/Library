@@ -1,6 +1,8 @@
 # Library
 存放一些日常项目需要用到的库文件
 以后需要使用的时候可以直接下载
+也记录了一些需要记住的小常识
+<br>
 2019.05.06<br>
 上传mulitimaster文件夹<br>
 上传my_first_ros_pkg文件夹<br>
@@ -31,3 +33,17 @@
 <br>
 ## Readme.md的写法，作为备份：
 [参照的博客](https://blog.csdn.net/htwhtw123/article/details/77069581 "Readme") 
+<br>
+## GitHub上传代码的命令行,作为备份
+* 把项目先git clone下来
+* 在文件夹中进行修改
+* 在文件夹中打开终端
+* git init
+* git add .
+* git commit -m "commit"
+* git push -u origin master
+* 输入用户名和密码
+* 完成上传<br>
+可见相关的教程：
+[Linux](https://blog.csdn.net/daydayjump/article/details/80850390 "Ubuntu") 
+[Windows](https://www.cnblogs.com/cxk1995/p/5800196.html "Win10") 
