@@ -28,3 +28,6 @@
 <br>
 ### 3：YOLO
 （1）yolo文件夹包括三个.cfg和一个.name文件，分别对应YOLO V2/V3/V3-tiny
+<br>
+## Readme.md的写法，作为备份：
+[参照的博客](https://blog.csdn.net/htwhtw123/article/details/77069581 "Readme") 
